@@ -31,10 +31,11 @@ export default function Experience(){
                   </div>
         
                   <ul className="list-disc list-inside mt-8 space-y-4 text-lg text-zinc-300">
-                    <li>Collaborating with every department at People&apos;s Television Network Inc.</li>
+                    <li>Configured Cisco network hardware and performed infrastructure cable management. </li>
                     <li>Applying Full-Stack solutions to streamline internal digital workflows.</li>
                     <li>Contributing to the digital transformation of public broadcasting services.</li>
-                    <li>Maintaining high-quality code standards in a professional environment.</li>
+                    <li>Managed signal/video routing, external video feeds, and source configurations. </li>
+                    <li>Administered broadcast traffic logs and optimized commercial program scheduling.</li>
                   </ul>
                 </div>
               </section>
