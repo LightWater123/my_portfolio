@@ -38,16 +38,16 @@ export default function Intro() {
       </h2>
 
       <p className="text-lg mt-8 font-montserrat leading-relaxed max-w-2xl">
-        <span className="font-bold border-b-2 border-white pb-1">
+        {/* <span className="font-bold border-b-2 border-white pb-1">
           The Creative Strategist:
-        </span>
-        <span className="font-normal text-zinc-500 ml-3">
+        </span> */}
+        <span className="font-normal text-zinc-400 ml-3">
           Transforming abstract ideas into functional digital reality.
         </span>
       </p>
 
-      <p className="text-md text-zinc-600 mt-4 font-montserrat italic uppercase tracking-wider">
-        Full-Stack Developer & Creative Thinker
+      <p className="text-md text-zinc-400 mt-4 font-montserrat italic uppercase tracking-wider">
+        Full-Stack Developer & QA Tester
       </p>
 
       <div className="mt-10 flex flex-col sm:flex-row gap-6">
